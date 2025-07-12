@@ -1,4 +1,4 @@
-<h1 align="center">Jellyfin</h1>
+0.18.11<h1 align="center">Jellyfin</h1>
 <h3 align="center">The Free Software Media System</h3>
 
 ---
